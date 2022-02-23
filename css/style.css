@@ -1,0 +1,7 @@
+/* &display=swap */
+.play-button {
+	display: inline-block;
+	width: 84px;
+	height: 84px;
+	background: url(../img/play-buttun.svg);
+}
